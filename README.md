@@ -2,7 +2,7 @@ Sobre mim
  
  👋 Meu nome é Brenda Fernandes e sou estudante de Análise e Desenvolvimento de Sistemas
 
- 📌 Minha área de atual interesse é desenvolvimento web.
+ 📌 Tenho como interesse desenvolvimento web.
  
 📚 Estou focada em aprender HTML, CSS, Javascript e Cibersegurança.
 
